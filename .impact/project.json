@@ -1,0 +1,63 @@
+{
+  "name": "Claradelay",
+  "format": "1.0.0",
+  "dependencies": [],
+  "content": [
+    {
+      "relpath": "ClaRaDelay",
+      "contentType": "MODELICA",
+      "name": "ClaRaDelay",
+      "defaultDisabled": false,
+      "id": "466ac180d841453e9a9c9242294e7ab9"
+    },
+    {
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS",
+      "defaultDisabled": false,
+      "id": "c3707dee018f41b28b251fe0bfcb70af"
+    },
+    {
+      "relpath": "Resources/Favorites",
+      "contentType": "FAVORITES",
+      "defaultDisabled": false,
+      "id": "483656182bc24dc88d4a8cc6611f24a2"
+    },
+    {
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS",
+      "defaultDisabled": false,
+      "id": "3370fe0b7fa6480fa2e113d76b1d9ed6"
+    },
+    {
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC",
+      "defaultDisabled": false,
+      "id": "c2b0d496e29b418ebaff29624378bb15"
+    },
+    {
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS",
+      "defaultDisabled": false,
+      "id": "88f8878d4d68492f9e40bbf95e41ddda"
+    },
+    {
+      "relpath": "Resources/ExperimentDefinitions",
+      "contentType": "EXPERIMENT_DEFINITIONS",
+      "defaultDisabled": false,
+      "id": "d9fdc8ed35a24fdfad829bc9687886bc"
+    },
+    {
+      "relpath": "ReferenceFiles",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "1e35380cd1dd417ba772bbe268b269e8"
+    },
+    {
+      "relpath": "CSource",
+      "contentType": "GENERIC",
+      "defaultDisabled": true,
+      "id": "82cd4df3ea9643318524f41ba90f6477"
+    }
+  ],
+  "executionOptions": []
+}
